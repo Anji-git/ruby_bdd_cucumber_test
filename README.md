@@ -1,1 +1,1 @@
-# ruby_bdd_cucumber_test
+# Cucumber BDD framework using Ruby

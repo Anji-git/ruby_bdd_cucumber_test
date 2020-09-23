@@ -5,7 +5,7 @@
 # Prerequisite for this project
 - ruby 2.7.1
 # Scenario execution:
-- Once cloning is done(step 1), we need to navigate "ruby_bdd_cucumber_test" folder
+- Once cloning is done, we need to navigate "ruby_bdd_cucumber_test" folder in your local machine, then:
   # Install the below gems
   - gem install cucumber
   - gem install selenium-webdriver

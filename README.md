@@ -11,5 +11,5 @@
 
 # 3. Scenario execution:
 - Once cloning is done(step 1), we need to navigate "ruby_bdd_cucumber_test" folder
-- Then run this command: cucumber <filename>.feature
+- Then run this command: cucumber feature_file_name.feature
    Example: ~/ruby_bdd_cucumber_test- cucumber 

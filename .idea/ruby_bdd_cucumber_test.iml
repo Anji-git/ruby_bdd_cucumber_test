@@ -11,5 +11,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v3.0.0, ruby-2.3.7-p456) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.0, ruby-2.3.7-p456) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.142.7, ruby-2.3.7-p456) [gem]" level="application" />
   </component>
 </module>

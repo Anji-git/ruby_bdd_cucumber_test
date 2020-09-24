@@ -13,4 +13,4 @@
   - gem install pry (If your want to debug the code)
 - Then run this command: cucumber feature_file_name.feature
 
-   Example: ~/ruby_bdd_cucumber_test/cucumber ui_test.feature 
+   Example: ~/ruby_bdd_cucumber_test/cucumber web_ui_automation_test.feature 

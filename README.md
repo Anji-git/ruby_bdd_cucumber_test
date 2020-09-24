@@ -10,6 +10,7 @@
   - gem install cucumber
   - gem install selenium-webdriver
   - gem install rspec
+  - gem install pry (If your want to debug the code)
 - Then run this command: cucumber feature_file_name.feature
 
    Example: ~/ruby_bdd_cucumber_test/cucumber ui_test.feature 

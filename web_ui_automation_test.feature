@@ -1,4 +1,4 @@
-Feature: Products validation in the "www.saucedemo.com" website
+Feature: Products validation in the "www.saucedemo.com" website using Ruby BDD framework
 
   Scenario: Successful login to the Products page
     Given the user is in the 'https://www.saucedemo.com/' website

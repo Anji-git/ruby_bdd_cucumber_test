@@ -14,3 +14,9 @@
 - Then run this command: cucumber feature_file_name.feature
 
    Example: ~/ruby_bdd_cucumber_test/cucumber web_ui_automation_test.feature 
+
+- How to the scenarios using tags:
+
+  cucumber feature_file_name.feature --tags=@tag_name
+  
+  Example: ~/ruby_bdd_cucumber_test/cucumber web_ui_automation_test.feature --tags=@test1

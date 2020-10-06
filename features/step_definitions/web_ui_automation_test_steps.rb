@@ -22,5 +22,3 @@ Then(/^the user should get "(.*)"$/) do |expected|
   error_text = @page.findElementBy("class", "login-box")
   expect(error_text.attribute('innerText')).to eq expected
 end
-
-

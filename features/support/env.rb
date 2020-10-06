@@ -1,5 +1,4 @@
 require 'selenium-webdriver'
-require 'rubygems'
 
 Before do
   @driver  = Selenium::WebDriver.for :firefox

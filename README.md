@@ -20,3 +20,6 @@
   cucumber feature_file_name.feature --tags=@tag_name
   
   Example: ~/ruby_bdd_cucumber_test/cucumber web_ui_automation_test.feature --tags=@test1
+  
+- How to get the report file:
+  cucumber feature_file_name.feature --tags=@tag_name --format html --out result.html
